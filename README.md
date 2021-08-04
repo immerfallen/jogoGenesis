@@ -11,3 +11,5 @@ A ordem de acendimento das luzes foi feita gerando-se um número aleatório de 1
 
 Os cliques dos usuário também são armazenados em um array para comparar com a ordem de acendimento.
 
+![screenshot](imgs/screenshot.png)
+
